@@ -21,7 +21,7 @@ Here are some of the technologies and tools I frequently use:
 
 ## 📈 My GitHub Stats
 
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
+![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicore123&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
 
 ## 🔗 Links
 
