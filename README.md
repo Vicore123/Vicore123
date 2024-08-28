@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a junior Full-Stack Developer with a passion f
 - 👯 I’m looking to collaborate on front-end and back-end development projects.
 - 🤔 I’m looking for help with my resumé.
 - 📫 Feel free to reach out to me on [Instagram](https://www.instagram.com/viicore/).
-- ⚡ Fun fact: When I was a kid, I loved to smell new shoes.
+- ⚡ Fun fact: When I was a kid, I loved to smell new shoes😂
 
 ## 🔧 Technologies & Tools
 
